@@ -3,6 +3,7 @@
 /**
  * checkPath - searches $PATH for directory of command
  * @build: input build
+ * Return: 0 on sucess
  */
 unsigned int checkPath(config *build)
 {
